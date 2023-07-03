@@ -1,0 +1,17 @@
+.home-app-name {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 2em;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-around;
+    background-color: plum;
+    
+    
+  }
+  .button{
+    border-radius: 20px;
+    width:70px;
+    color: black;
+    background-color:whitesmoke;
+  }
